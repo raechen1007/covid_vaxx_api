@@ -1,0 +1,1 @@
+# covid_vaxx_api
